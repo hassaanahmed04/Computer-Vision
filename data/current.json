@@ -1,0 +1,39 @@
+{
+    "min_disparity": 0,
+    "num_disparities": 128,
+    "block_size": 5,
+    "uniqueness_ratio": 10,
+    "speckle_window_size": 100,
+    "speckle_range": 32,
+    "disp12_max_diff": 1,
+    "pre_filter_cap": 63,
+    "camera_matrix": [
+        [
+            1422.434064197832,
+            0.0,
+            658.9733883030513
+        ],
+        [
+            0.0,
+            1412.8529462821075,
+            364.9497616960333
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "dist_coeffs": [
+        [
+            0.21632923647743627,
+            -1.3761672512406906,
+            0.000562730973442113,
+            -0.003237984295789641,
+            2.8769967409857022
+        ]
+    ],
+    "reprojection_error": 0.06603848374105575,
+    "left_image": "/home/hassaan-ahmed/Desktop/Semester 2/Computer Vision/Computer Vision Project/ll12.png",
+    "right_image": "/home/hassaan-ahmed/Desktop/Semester 2/Computer Vision/Computer Vision Project/rr12.png"
+}
