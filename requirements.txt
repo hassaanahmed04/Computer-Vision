@@ -1,0 +1,8 @@
+customtkinter
+watchdog
+Pillow
+opencv-python
+numpy
+open3d
+matplotlib
+pypylon
